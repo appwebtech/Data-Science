@@ -1,4 +1,6 @@
-## DATA SCIENCE WITH PYTHON
+## DATA SCIENCE WITH PYTHON 
+
+### Visit the ([Wiki page](https://github.com/appwebtech/Data-Science/wiki))
 
 I was watching a YouTube video about some data modelling which reminded me that I had some materials that I was using to learn data science using Python.
 
@@ -11,3 +13,6 @@ Hopefully GitHub with recreate the models correctly, I'm not sure whether it can
 If there will be hitches with display, I recommend downloading the files and working with them locally.
 
 Lastly, I will review and update the codebase in areas which may have evolved with different library stacks.
+
+
+This repo now has a ([Wiki page](https://github.com/appwebtech/Data-Science/wiki))
